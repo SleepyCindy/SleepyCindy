@@ -1,7 +1,7 @@
 # Sobre mí:
 - Soy desarrolladora de videojuegos, programadora y artista pixel art
-- Creé __Clevercat Games__, __MillaBot__, __Liminal Adrial__, entre otras cosas. (Aunque ahora andan más o menos pausadas)
-- Parte de __Tadestudios__
+- Creé __[Clevercat Games](https://twitter.com/ClevercatGames)__, __[MillaBot](https://sites.google.com/view/millabot)__, __Liminal Adrial__, entre otras cosas. *(Aunque ahora andan más o menos pausadas)*
+- Parte de __[Tadestudios](https://twitter.com/Tadestudios)__
 ## Conocimientos:
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 - También [Game Maker Language (Code)](https://manual.gamemaker.io/monthly/en/GameMaker_Language.htm) para [GameMaker Studio 2](https://gamemaker.io/)
